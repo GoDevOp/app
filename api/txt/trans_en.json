@@ -1,0 +1,11 @@
+{
+	"pushnotif": {
+		"makeOffer": "Offer to finish your job",
+		"cancelOffer": "Offer canceled",
+		"acceptOffer": "Offer accepted",
+		"declineOffer": "Offer declined",
+		"markDone": "Job marked as done",
+		"workerleft": "Left your job",
+		"workerremoved": "You were removed from the job"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"pushnotif": {
+		"makeOffer": "Tilby å fullføre jobben din?",
+		"cancelOffer": "Tilbud avbrutt",
+		"acceptOffer": "Tilbud akseptert",
+		"declineOffer": "Tilbud avvist",
+		"markDone": "Marker jobb som utført",
+		"workerleft": "Forlot jobben",
+		"workerremoved": "Du ble fjernet fra jobben"
+	}
+}

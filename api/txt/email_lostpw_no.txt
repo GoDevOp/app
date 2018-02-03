@@ -1,0 +1,12 @@
+Nytt passord hos BW_PROJEKT_NAME
+--BW--
+Kjære BW_NAME,
+
+Ditt nye passord er: BW_NEWPW
+
+Med vennlig hilsen,
+BW_PROJEKT_NAME - Teamet
+http://BW_PROJEKT_URL
+
+--
+BW_PROJEKT_INFO

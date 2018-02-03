@@ -1,0 +1,12 @@
+New Password at BW_PROJEKT_NAME
+--BW--
+Hello BW_NAME,
+
+Your new Password is: BW_NEWPW
+
+Best regards,
+Your BW_PROJEKT_NAME - Team
+http://BW_PROJEKT_URL
+
+--
+BW_PROJEKT_INFO
